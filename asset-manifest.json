@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-probooks/static/css/main.b2bc42f1.chunk.css",
+    "main.js": "/react-probooks/static/js/main.462aadce.chunk.js",
+    "main.js.map": "/react-probooks/static/js/main.462aadce.chunk.js.map",
+    "runtime-main.js": "/react-probooks/static/js/runtime-main.f478474f.js",
+    "runtime-main.js.map": "/react-probooks/static/js/runtime-main.f478474f.js.map",
+    "static/js/2.e1ad267c.chunk.js": "/react-probooks/static/js/2.e1ad267c.chunk.js",
+    "static/js/2.e1ad267c.chunk.js.map": "/react-probooks/static/js/2.e1ad267c.chunk.js.map",
+    "static/js/3.5b352c73.chunk.js": "/react-probooks/static/js/3.5b352c73.chunk.js",
+    "static/js/3.5b352c73.chunk.js.map": "/react-probooks/static/js/3.5b352c73.chunk.js.map",
+    "index.html": "/react-probooks/index.html",
+    "static/css/main.b2bc42f1.chunk.css.map": "/react-probooks/static/css/main.b2bc42f1.chunk.css.map",
+    "static/js/2.e1ad267c.chunk.js.LICENSE.txt": "/react-probooks/static/js/2.e1ad267c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f478474f.js",
+    "static/js/2.e1ad267c.chunk.js",
+    "static/css/main.b2bc42f1.chunk.css",
+    "static/js/main.462aadce.chunk.js"
+  ]
+}
